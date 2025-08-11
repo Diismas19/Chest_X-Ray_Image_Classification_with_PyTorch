@@ -47,6 +47,7 @@ While the results are highly satisfactory, performance could potentially be furt
 -   Augmenting the training dataset with more data.
 -   Experimenting with more complex pre-trained architectures, such as DenseNet or EfficientNet.
 -   Utilizing ensembling techniques, which combine the predictions of multiple models for a more robust final decision.
+It's important to emphasize that this project used only one dataset with approximately 1200 chest x-ray images, more experiments are necessary to evaluate its usage in clinic context.
 
 ## How to Run
 
